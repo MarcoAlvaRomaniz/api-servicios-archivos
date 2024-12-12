@@ -1,3 +1,5 @@
 credenciales.json
 node_modules/
 .env
+credencialesSIRSA.json
+uploads/
